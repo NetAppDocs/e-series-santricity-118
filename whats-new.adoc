@@ -12,6 +12,10 @@ summary: New features in SANtricity OS.
 [.lead]
 The following table describes new features in SANtricity System Manager 11.8.
 
+== New features in Version 11.80.1R4
+
+This version contains only minor changes and no new features or restrictions. For more information on the changes in this release, please refer to the README file.
+
 == New features in Version 11.80.1R3
 
 This version contains only minor changes and no new features or restrictions. For more information on the changes in this release, please refer to the README file.
